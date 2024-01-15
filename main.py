@@ -14,7 +14,7 @@ from nextcord.abc import GuildChannel
 from nextcord import Interaction,SlashOption
 
 
-TOKEN="MTE5Mjg5MTYwODQ0NjgxNjQyNw.GADIf9.GcVVO3SYSJWW7ct7138N5rtJFZaUF6gVoePxoc"
+TOKEN="YOUR BOT TOKEN HERE"
 bot_status = cycle(["Type /playsnake to play!","Snake bot with mutiplayer!","Type /setup to setup snaky!","Snaky is created by AnsonDev!"])
 
 client = commands.Bot(command_prefix = '!', intents = nextcord.Intents.all())
