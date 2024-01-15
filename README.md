@@ -28,3 +28,4 @@ Join our official discord and ask there!
 
 ## License
 
+[MIT](https://github.com/sunshinghin/Snaky-bot/blob/main/LICENSE)
