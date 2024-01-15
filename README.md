@@ -13,6 +13,8 @@ You can download nextcord.py by these steps.YOU NEED TO ADD PYTHON INTO PATH BEF
 ```bash
 python3 -m pip install -U nextcord
 ```
+If it occurs cannot pack problem,follow this youtube tutorial and run the bash code again. [Youtube video](https://youtu.be/jyHtVRgHWbU?si=3nF-naEoLBrPgCNK)
+
 If any problem while installing nextcord.Please join our discord server and ask there! [Click me](https://discord.com/invite/GPRwYfYH6Y)  
 
 It should installed nextcord in your computer now!
