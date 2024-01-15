@@ -19,6 +19,8 @@ It should installed nextcord in your computer now!
 
 ## Start
 
+Open main.py and paste your bot token in the "TOKEN" variable
+
 You can start the bot by running the main.py file.
 
 ## Question?
