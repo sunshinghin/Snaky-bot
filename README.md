@@ -17,7 +17,7 @@ If it occurs cannot pack problem,follow this youtube tutorial and run the bash c
 
 If any problem while installing nextcord.Please join our discord server and ask there! [Click me](https://discord.com/invite/GPRwYfYH6Y)  
 
-It should installed nextcord in your computer now!
+It should install nextcord in your computer now!
 
 ## Start
 
