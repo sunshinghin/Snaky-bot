@@ -4,7 +4,7 @@ Hi,I am Ansondev.The creater of Snaky bot in discord.You can use this repo to cr
 
 ## Installation
 
-Snaky is used nextcord.py as library.You MUST installed nextcord.py before using Snaky.
+Snaky is using nextcord.py as library.You MUST install nextcord.py before using Snaky.
 
 You can download nextcord.py by these steps.YOU NEED TO ADD PYTHON INTO PATH BEFORE USING THIS.
 
