@@ -82,7 +82,7 @@ async def on_raw_reaction_add(payload):
     return
   category_id = read_serverdatasave(guild.id,"category_id")
   if category_id == None:
-    await channel.send("This server has not set up Snaky yet!")
+    
     return
   category = nextcord.utils.get(guild.categories, id=int(category_id))
   
