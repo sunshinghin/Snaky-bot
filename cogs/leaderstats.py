@@ -101,13 +101,13 @@ class leaderstats(commands.Cog):
             useridshow = i[0]
             score = i[1]
             if leaderboard == "Personal score leaderboard" or leaderboard == "Rebirth leaderboard":
-              shearchuser = self.client.fetch_user(useridshow)
+              shearchuser = await self.client.fetch_user(useridshow)
               user = shearchuser.name
             else:
               
               
             
-              channel = self.client.get_guild(int(useridshow))
+              channel = await self.client.fetch_guild(int(useridshow))
               if channel == None:
                 user = "NO ONE"
                 score = "NO ONE"
